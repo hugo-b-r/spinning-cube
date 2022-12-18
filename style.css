@@ -1,12 +1,14 @@
 #info {
-	position: absolute;
-	top: 10px;
-	width: 100%;
+	top: 70%;
 	text-align: center;
-	z-index: 100;
-	display:block;
+    width: 100px;
+    margin: 0 auto;
+    background: white;
 }
 
-body {
+#info-outer {
+    padding: 30px;
+}
+.body {
     margin: 0;
 }
